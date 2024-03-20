@@ -1,1 +1,10 @@
-body
+/* CSS-Selektoren */
+/*
+   Element-Selektoren => body, main, p, img, h1, h2,...
+   Class-Selektor => .card, .header, .buxtehude
+   Id-Selektor => #card1, #theme-toggle, #submit-btn
+   Attribute-Selektor => todo
+*/
+body {
+    background-color: #8c8c8c;
+}
