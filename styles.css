@@ -8,3 +8,27 @@
 body {
     background-color: #8c8c8c;
 }
+
+h1, h2, h3, h4, h4, h6 {
+    font-style: italic;
+}
+
+main {
+    margin: 20px;
+
+}
+
+li.fette-liste {
+font-weight: 900;
+
+}
+li.custom-list-item {
+margin: 15px
+
+}
+h1#main-title {
+    font-size: 2em;
+    text-shadow: 5px 5px 5px #fefefe;
+    font-style: normal;
+}
+
