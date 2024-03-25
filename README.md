@@ -1,6 +1,6 @@
-# Webentwicklung-Grundlagen
+# Webentwicklungs-Grundlagen
 
-Dieses Respository ist eine Sammlung an Lernmaterialien für den Einstieger in die Webentwicklung.
+Dieses Repository ist eine Sammlung an Lernmaterialien für den Einstieg in die Webentwicklung.
 
 ## Getting Started
 
@@ -10,5 +10,6 @@ cd <Platzhalter>
 code .
 ```
 
-# 23-3-Web-GL
-# 23-3-Web-GL
+## HTTP und Webstandards
+
+![](HTTPundWebstandards-HTTP.svg)
